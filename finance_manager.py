@@ -57,6 +57,7 @@ class PersonalFinanceManager:
                 print("Invalid choice, please try again.")
 
 # Run the manager
+# Run the manager
 if __name__ == "__main__":
     finance_manager = PersonalFinanceManager()
     finance_manager.run()
