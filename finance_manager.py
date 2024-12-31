@@ -50,7 +50,7 @@ class PersonalFinanceManager:
                 print(f"\nCurrent Balance: {balance}\n")
 
             elif action == '5':
-                print("Exiting the Personal Finance Manager. Goodbye!")
+                print("Exiting the Personal Finance Manager. See you soon, Goodbye!")
                 break
 
             else:
